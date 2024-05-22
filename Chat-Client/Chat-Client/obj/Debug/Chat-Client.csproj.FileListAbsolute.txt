@@ -1,0 +1,11 @@
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\bin\Debug\Chat-Client.exe.config
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\bin\Debug\Chat-Client.exe
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\bin\Debug\Chat-Client.pdb
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat-Client.csproj.AssemblyReference.cache
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat-Client.csproj.SuggestedBindingRedirects.cache
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat_Client.Form1.resources
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat_Client.Properties.Resources.resources
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat-Client.csproj.GenerateResource.cache
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat-Client.csproj.CoreCompileInputs.cache
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat-Client.exe
+E:\1-programming code\VS projects\c#\Chat-Client\Chat-Client\obj\Debug\Chat-Client.pdb
